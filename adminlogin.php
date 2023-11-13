@@ -53,9 +53,9 @@ header("Location: doctor/doctordashboard.php");
                     <div class="avatar"></div>
                     <div class="form-box">
                         <form class="form" role="form" method="POST" accept-charset="UTF-8">
-                            <input name="doctorId" type="text" placeholder="Doctor ID" required>
-                            <input name="password" type="password" placeholder="Password" required>
-                            <button class="btn btn-info btn-block login" type="submit" name="login">Login</button>
+                            <input name="doctorId" type="text" placeholder="ผู้ดูแลระบบ" required>
+                            <input name="password" type="password" placeholder="รหัสผ่าน" required>
+                            <button class="btn btn-info btn-block login" type="submit" name="login">เข้าสู่ระบบ</button>
                         </form>
                     </div>
                 </div>
