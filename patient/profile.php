@@ -221,7 +221,7 @@ header( 'Location: profile.php' ) ;
 													</tr>
 													<tr>
 														<td>เบอร์โทรศัพท์</td>
-														<td><input type="text" class="form-control" name="patientPhone" value="<?php echo $userRow['patientPhone']; ?>"  /></td>
+														<td><input type="text" class="form-control"   name="patientPhone" value="<?php echo $userRow['patientPhone']; ?>"  /></td>
 													</tr>
 													<tr>
 														<td>อีเมล์</td>
