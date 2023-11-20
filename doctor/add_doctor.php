@@ -129,7 +129,7 @@ alert('เเกิดข้อผิดพลาด กรุณาลองอ
 
                         </li>
                         <li class="active">
-                            <a href="add_doctor.php"><i class="fa fa-fw fa-edit"></i>การจัดการข้อมูลทันแพทย์</a>
+                            <a href="add_doctor.php"><i class="fa fa-fw fa-edit"></i>การจัดการข้อมูลทันตแพทย์</a>
                         </li>
                         <li>
                             <a href="board.php"><i class="fa fa-fw fa-edit"></i>สรุปรายการต่างๆ</a>
@@ -147,7 +147,7 @@ alert('เเกิดข้อผิดพลาด กรุณาลองอ
                     <div class="row">
                         <div class="col-lg-12">
                             <h2 class="page-header">
-                           การจัดการข้อมูลทันแพทย์
+                           การจัดการข้อมูลทันตแพทย์
                             </h2>
                             <ol class="breadcrumb">
                                 <li class="active">
@@ -163,7 +163,7 @@ alert('เเกิดข้อผิดพลาด กรุณาลองอ
 
                         <!-- panel heading starat -->
                         <div class="panel-heading">
-                            <h3 class="panel-title">การจัดการข้อมูลทันแพทย์ </h3>
+                            <h3 class="panel-title">การจัดการข้อมูลทันตแพทย์ </h3>
                         </div>
                         <!-- panel heading end -->
 
